@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wl,--dependency-file=CMakeFiles/myproject.dir/link.d CMakeFiles/myproject.dir/funzione1.cpp.o -o myproject
