@@ -23,6 +23,5 @@ if ( ifs.is_open() ) {
 		
 	}
 }
-
 return 0;
 }
