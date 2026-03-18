@@ -7,7 +7,7 @@ set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -Wall -Wshadow -Werror=vla")
 
 
 
-#imo esercizio
+#primo esercizio
 add_executable(primi_algoritmi primi_algoritmi.cpp)
 
 #secondo esercizio

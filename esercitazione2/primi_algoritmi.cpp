@@ -1,5 +1,5 @@
 #include <iostream>
-#include <cmath>     // Per sqrt e pow
+#include <cmath>     // Per sqrt 
 #include <cstdlib>   // Per rand
 #include <algorithm> // Per min e max
 
@@ -17,7 +17,7 @@ int main()
 		}
 		else{
 			minimo=min(minimo, arr[i]);
-			massimo=max(minimo, arr[i]);
+			massimo=max(massimo, arr[i]);
 		}
 		
 		rad_quad[i]=sqrt(arr[i]);
